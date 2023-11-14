@@ -29,3 +29,11 @@
 .small {
   font-size: 0.75rem;
 }
+
+.navigationBar {
+  text-align: left;
+  border: 2px black solid;
+}
+.navigationBar button {
+  border: 2px black solid;
+}

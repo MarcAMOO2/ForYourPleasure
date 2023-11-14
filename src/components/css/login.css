@@ -1,0 +1,8 @@
+.loginForm {
+    border: 2px black solid;
+    padding: 50px;
+    margin-right: 200px;
+    background-color: rgb(241, 244, 246);
+    border-radius: 5px;
+    box-shadow: 1px 1px 2.5px rgba(238, 236, 236, 0.153)
+}
